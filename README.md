@@ -1,5 +1,5 @@
-### git-gists repo
-------------------
+# git-gists repo
+
 Andy Wenk 02.10.2009
 
 This is just an overview about the gists I wrote concerning git.
