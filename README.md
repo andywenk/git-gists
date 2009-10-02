@@ -1,12 +1,11 @@
-git-gists repo
---------------
+### git-gists repo
+------------------
 Andy Wenk 02.10.2009
 
-This just an overview about the gists I wrote concerning git.
+This is just an overview about the gists I wrote concerning git.
 You *could* also simply click on gists in my profile header
 but hey I thought it's a nice idea to have an overview like this.
 
-gist list:
----------
+## gist list:
 
-Simple setup for starting with git [http://gist.github.com/199567] 
+Simple setup for starting with git [http://gist.github.com/199567](http://gist.github.com/199567) 
